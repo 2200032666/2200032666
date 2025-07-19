@@ -1,5 +1,5 @@
 <h1 align="center">👻 SyntaxGhost</h1>
-<p align="center">
+<p align="center"> 
   <i>I live in your stack traces. Hacker by night, helper by choice.</i><br>
   <strong>Codebreaker | Bug Hunter | OSS Lover</strong>
 </p>
