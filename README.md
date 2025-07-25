@@ -14,7 +14,7 @@
 - 🔐 Cybersecurity Enthusiast  
 - 🐛 I squash bugs... and collect bounties  
 - 💻 Obsessed with open source  
-- ⚙️ Automation, scripting, and reverse engineering  
+- ⚙️ Automation, scripting, and reverse engineering   
 - 🛠️ Tools I use: `BurpSuite`, `nmap`, `Metasploit`, `Wireshark`, `JohnTheRipper`
 
 ---
