@@ -22,7 +22,7 @@
 ## 💣 Projects
 | Project | Description |
 |--------|-------------|
-| 🕷️ [ZeroDayLab](#) | Playground for vulnerability research and exploit dev |
+| 🕷️ [ZeroDayLab](#) | Playground for vulnerability research and exploit dev ``  |
 | 🔎 [GhostRecon](#) | Custom OSINT & recon automation toolkit |
 | 🧪 [CTF-Arsenal](#) | My curated scripts, payloads & writeups for CTFs |
 
